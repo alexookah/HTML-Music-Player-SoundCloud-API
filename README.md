@@ -8,6 +8,8 @@ Just change the iframe src to the one you are interested from soundcloud and you
 - Next, Previous, Play, Pause, Volume On/Off, Volume sliders and Track Position.
 - Jquery effects that opens and closes the player iframe.
  
+## How it looks like
+![Alt text](https://github.com/Alexookah/HTML-Player-SoundCloud-API/blob/master/screenshot.png "ScreenShot of player")
 
 ## Implementation
 
