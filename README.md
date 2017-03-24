@@ -78,7 +78,7 @@ Insert this html code anywhere in the Body of your HTML document.
 
 ## Live Demo
 - [View Demo](http://comewithreverse.com)
-- or Download and open index.html with a browser
+- or Download and open index.html with your browser
 
 ## Feedback and Contributions
 If you experience any errors or if you have ideas for improvement, please feel free to open an issue or send a pull request.
