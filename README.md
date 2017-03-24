@@ -77,7 +77,7 @@ Insert this html code anywhere in the Body of your HTML document.
 ```
 
 ## Live Demo
-- [View Demo](http://comewithreverese.com)
+- [View Demo](http://comewithreverse.com)
 - or Download and open index.html with a browser
 
 ## Feedback and Contributions
