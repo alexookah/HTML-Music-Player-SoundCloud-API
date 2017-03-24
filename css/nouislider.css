@@ -1,0 +1,91 @@
+.noUiSlider {
+	width:					400px;
+	border:					1px solid #CCC;
+	height:					8px;
+	background:				#EEE;
+	-webkit-touch-callout:	none;
+}
+.noUi-midBar0 {
+	height:					100%;
+	z-index:				0;
+	background:				-moz-linear-gradient(0% 0 270deg, #4E4E4E, #4D4D4D) repeat scroll 0 0 transparent;
+	border-radius:			5px;
+	height: 5px;
+	border: 1px solid #202020;
+	-webkit-touch-callout:	none;
+}
+.noUi-midBar2 {
+	height:					100%;
+	z-index:				0;
+	background:				#C0C0C0;
+	border-radius:			5px;
+	-webkit-touch-callout:	none;
+}
+.noUi-handle > div {
+	-moz-transition: 		left 0.07s ease-out 0s;
+    background-image: 		url("../images/volume_knob.png");
+    background-position: 	0 0;
+    background-repeat: 		no-repeat;
+    cursor: 				pointer;
+    height: 				16px;
+    left: 					-6px;
+    position: 				absolute;
+    top: 					-2px;
+    width: 					16px;
+    z-index: 				100;
+}
+
+.noUi-handle2 > div {
+	-moz-transition: 		left 0.07s ease-out 0s;
+    background-image: 		url("../images/progress-head.png");
+    background-position: 	0 0;
+    background-repeat: 		no-repeat;
+    cursor: 				pointer;
+    height: 				16px;
+    left: 					-9px;
+    position: 				absolute;
+    top: 					-3px;
+    width: 					16px;
+    z-index: 				100;
+}
+
+
+.noUi-handle > div:hover,
+.noUi-handle > div.noUi-activeHandle {
+	-moz-transition: none 0s ease 0s !important;
+    background-position: 0 -50px !important;
+}
+.noUi-handle2 > div:hover,
+.noUi-handle2 > div.noUi-activeHandle {
+	-moz-transition: none 0s ease 0s !important;
+    background-position: 0 -50px !important;
+}
+.disabled > .noUi-midBar {
+	background:				#999;
+}
+.disabled .noUi-handle > div {
+	border-color:			#CCC;
+	background:				#CCC;
+}
+@media (-webkit-min-device-pixel-ratio:1.2),-moz-touch-enabled,(max-device-width:1024px){
+	.noUi-handle > div {
+		height:				64px;
+		width:				16px;
+		top:				-3px;
+		left:				-9px;
+	}
+}
+/*
+#volume_thumb {
+    -moz-transition: left 0.07s ease-out 0s;
+    background-image: url("../images/volume_knob.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    height: 16px;
+    left: 60px;
+    position: absolute;
+    top: -2px;
+    width: 16px;
+    z-index: 100;
+}*/
