@@ -1,6 +1,6 @@
 # SoundCloud-Player-API
 A simple stylish HTML Player with jQuery that controls the player through the SoundCloud API.
-Just change the iframe src to the one you are interested from soundcloud and you are ready to use this player to any website you like. Preferably use this in an ajax based technology so that it doesnt reload and interrupts the player playing.
+Just change the iframe src to the one you are interested from soundcloud and you are ready to use this player to any website you like. Preferably use this in an ajax based technology so that it doesnt reload and interrupt the player playing.
 
 ## Features
 - Shows information from each track of Soundcloud (artwork, track name, track duration)
