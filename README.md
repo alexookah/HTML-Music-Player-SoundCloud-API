@@ -7,6 +7,7 @@ Just change the iframe src to the one you are interested from soundcloud and you
 - Controls the track being played from SoundCloud by assigning the html player buttons to the widget from soundcloud.
 - Next, Previous, Play, Pause, Volume On/Off, Volume sliders and Track Position.
 - Jquery effects that opens and closes the player iframe.
+- Scroll to top button with scroll effect.
  
 ## How it looks like
 ![Alt text](https://github.com/Alexookah/HTML-Player-SoundCloud-API/blob/master/screenshot.png "ScreenShot of player")
