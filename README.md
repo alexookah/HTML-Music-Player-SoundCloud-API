@@ -78,8 +78,7 @@ Insert this html code anywhere in the Body of your HTML document.
 ```
 
 ## Live Demo
-- [View Demo](http://old.comewithreverse.com)
-- or Download and open index.html with your browser
+- [View Demo](https://alexookah.github.io/HTML-Music-Player-SoundCloud-API/index.html)
 
 ## Feedback and Contributions
 If you experience any errors or if you have ideas for improvement, please feel free to open an issue or send a pull request.
